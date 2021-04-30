@@ -1,0 +1,33 @@
+{
+  "components": {
+    "visualizers": {
+      "petri_viz": {
+        "src": "panels/petri_viz/petri_vizPanel",
+        "title": "petri_viz",
+        "panel": "src/visualizers/panels/petri_viz",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/petri_viz"
+      }
+    },
+    "plugins": {
+      "graph_theory": {
+        "src": "src/plugins/graph_theory",
+        "test": "test/plugins/graph_theory"
+      }
+    },
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "routers": {},
+    "seeds": {}
+  },
+  "dependencies": {
+    "visualizers": {},
+    "plugins": {},
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "routers": {},
+    "seeds": {}
+  }
+}

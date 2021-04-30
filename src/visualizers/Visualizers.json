@@ -1,0 +1,8 @@
+[
+  {
+    "id": "petri_viz",
+    "title": "petri_viz",
+    "panel": "panels/petri_viz/petri_vizPanel",
+    "DEBUG_ONLY": false
+  }
+]
