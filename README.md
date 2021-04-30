@@ -1,5 +1,8 @@
 # final
 ## Installation
+
+The controller, widget, and python plugin for this project are based off work done by https://github.com/kecso in the project https://github.com/kecso/StateMachineJoint
+
 First, install the final following:
 - [NodeJS](https://nodejs.org/en/) (LTS recommended)
 - [MongoDB](https://www.mongodb.com/)

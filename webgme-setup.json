@@ -19,7 +19,11 @@
     "decorators": {},
     "layouts": {},
     "routers": {},
-    "seeds": {}
+    "seeds": {
+      "state_machine_seed": {
+        "src": "src/seeds/state_machine_seed"
+      }
+    }
   },
   "dependencies": {
     "visualizers": {},
